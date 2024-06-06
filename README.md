@@ -1,4 +1,4 @@
-## Hi 👋, I am Ishita M. Patel
+# Hi 👋, I am Ishita M. Patel
 
 Here are some ideas to get you started:
 
