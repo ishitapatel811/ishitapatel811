@@ -1,6 +1,4 @@
-# Hi 👋, I am Ishita M. Patel
-
-Here are some ideas to get you started:
+# Hi 👋, I'm Ishita M. Patel
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning Web Development 
